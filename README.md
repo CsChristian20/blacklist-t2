@@ -26,13 +26,12 @@ npm run dev #
 
 ## Tecnologías utilizadas
 
-1. Python: es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código.
-  1.1 Flask: es un micromarco utilizado para el desarrollo de aplicaciones web en Python.
-  1.2 Flask-Mail: es una extensión de Flask que permite enviar correos electrónicos desde una aplicación web Flask.
-   
-2. SheetDB: es una plataforma en línea que permite convertir las hojas de cálculo de Google en una API JSON.
-3. Node.js: es un entorno de ejecución para JavaScript construido con V8, motor de JavaScript de Chrome.
-  3.1 React: es una biblioteca de JavaScript utilizada para construir interfaces de usuario interactivas en aplicaciones web.
+- [1.Python]: es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código.
+  - [1.1Flask]: es un micromarco utilizado para el desarrollo de aplicaciones web en Python.
+  - [Flask-Mail]: es una extensión de Flask que permite enviar correos electrónicos desde una aplicación web Flask.
+- [SheetDB]: es una plataforma en línea que permite convertir las hojas de cálculo de Google en una API JSON.
+- [Node.js]: es un entorno de ejecución para JavaScript construido con V8, motor de JavaScript de Chrome.
+  - [React]: es una biblioteca de JavaScript utilizada para construir interfaces de usuario interactivas en aplicaciones web.
 
 ## Estructura del proyecto 
 

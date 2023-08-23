@@ -1,6 +1,6 @@
 # Project BlackList Team 1 💻
 
-<img src="frontend/src/assets/logo_uno.png" />
+<img width="400" src="frontend/src/assets/logo_uno.png" />
 
 ¡Olvídate de los correos temporales!
 Mantén limpio y seguro tu base de datos con nuestra plataforma.
@@ -17,6 +17,12 @@ git clone https://github.com/danisan15/project_blacklist.git
 ### Instale las dependencias
 
 Estos script instalaran las dependencias de los entornos en el frontend y el backend.
+
+```cmd
+En Windows:
+
+npm run 
+```
 
 ## Ejecucion local ⚙️
 
@@ -59,4 +65,6 @@ Proyecto realizado por:
 - Christian Salazar  @CsChristian20
 - César Bruzual      @Cesar00z
 
-### 🏅Social Oplesk Team 1 - Projecto 2
+Team 1 - Projecto 2
+
+### 🏅Social Oplesk @SocialOplesk 

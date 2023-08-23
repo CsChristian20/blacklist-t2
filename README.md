@@ -1,4 +1,4 @@
-# Project BlackList Team 1
+# Project BlackList Team 1 💻
 
 <img src="frontend/src/assets/logo_uno.png" />
 
@@ -6,7 +6,7 @@
 Mantén limpio y seguro tu base de datos con nuestra plataforma.
 TempBlock detecta esos correos con dominio insano mediante una Black List.
 
-## Instalación y uso de manera local
+## Instalación y uso de manera local 🛠️
 
 ### Clona este repositorio [GitHub]
 
@@ -18,29 +18,45 @@ git clone https://github.com/danisan15/project_blacklist.git
 
 Estos script instalaran las dependencias de los entornos en el frontend y el backend.
 
-## Ejecucion local
+## Ejecucion local ⚙️
 
 ```bash
 npm run dev #
 ```
 
-## Tecnologías utilizadas
+## Tecnologías utilizadas 📲
 
-- [1.Python]: es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código.
-  - [1.1Flask]: es un micromarco utilizado para el desarrollo de aplicaciones web en Python.
-  - [Flask-Mail]: es una extensión de Flask que permite enviar correos electrónicos desde una aplicación web Flask.
-- [SheetDB]: es una plataforma en línea que permite convertir las hojas de cálculo de Google en una API JSON.
-- [Node.js]: es un entorno de ejecución para JavaScript construido con V8, motor de JavaScript de Chrome.
-  - [React]: es una biblioteca de JavaScript utilizada para construir interfaces de usuario interactivas en aplicaciones web.
+- [Python]: es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código,
+- [Sheet.best]: es una plataforma que convierte las hojas de cálculo en API REST.
+- [Node.js]: es un entorno en tiempo de ejecución multiplataforma, de código abierto, basado en el lenguaje de programación JavaScript y basado en el motor V8 de Google.
+  - [React]: es una librería Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página.
 
-## Estructura del proyecto 
+## Estructura del proyecto 🏛️
 
-## Derechos de autor.
+```
 
-Projecto realizado por: 
+- 📃Readme.md          # Documentanción del Proyecto
 
-- Daniel @danisan15
-- Christian Salazar @CsChristian20
-- César @Cesar00z
+- 💻frontend            # Frontend creado con Vite
+----- 📁public          # Directorio para favicon.ico      
+----- 📁src             # Componentes de React
+----- index.html         # html inicial de React
 
-### Social Oplesk Team 1 - Projecto 2
+- ⚙️backend              # Backend contruido con
+----- 📁__pycache__      # 
+----- 📁env              # 
+----- app.py              # Script inicial del backend
+----- requirements.txt    # Módulos requeridos
+
+
+```
+
+## Derechos de autor 📝
+
+Proyecto realizado por: 
+
+- Daniel Santaella   @danisan15
+- Christian Salazar  @CsChristian20
+- César Bruzual      @Cesar00z
+
+### 🏅Social Oplesk Team 1 - Projecto 2
